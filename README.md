@@ -1,9 +1,7 @@
 # laravel_security_CBAERP
-This for my master thesis security demostration presentation 
+Purpose: This project was written with Laravel Framework, Buefy, Bulma, CSS3, SASS, JavaScript, NPM Package Manager, yarn Package Manager, and Git.
 
-This set is for my master thesis title " A MODEL FOR CLOUD-BASED ACADEMIC ENTERPRISE RESOURCE PLANNING (CAERP) FOR A HIGHER INSTITUTION"
-
-Using Laravel Framework, Buefy, Bulma and mysql admin as database.
+mysql admin as database
 
 TITLE:  A MODEL FOR CLOUD-BASED ACADEMIC ENTERPRISE RESOURCE PLANNING (CAERP) FOR A HIGHER INSTITUTION
 
@@ -15,5 +13,15 @@ The concept of cloud computing though not so commonly used in Education, it was 
 
 Keywords: Cloud Computing, ERP, Higher Institution, ICT in Education, Mobile Computing, Privacy, Virtual Machine, Security
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Technologies used:
+
+HP laptop
+Microsoft Visual Studio Code
+Bash Terminal
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Timeline: 56 Hours
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Reference: DevMarketer
